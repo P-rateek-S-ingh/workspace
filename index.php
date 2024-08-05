@@ -3,7 +3,7 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! I love my japan anime
+welcome! I love my japanese anime so much.....
 </h1>
 
 <?php
